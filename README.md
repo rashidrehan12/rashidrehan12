@@ -18,11 +18,27 @@
 🦸‍♂️ Just a dev passionate about tech, Gen AI, and creating user-friendly magic.
 
 
+💼 Position     : Associate Software Engineer  
+🧠 Expertise    : Full-Stack Dev | Backend APIs | Gen AI Integration  
+🧪 Speciality   : Node.js · React · Python · GenAI · MongoDB · MySQL  
+🧬 AI Magic     : LangChain · OpenAI · Streamlit · Groq APIs  
+🌍 Location     : Indore, India  
+☕ Fun Fact     : Code → Music → Chai → Repeat 🎧☕💻  
+🎯 Goal         : Build scalable apps & cool AI tools that make life easier 🚀
+
+
+🦸‍♂️ Just a dev passionate about tech, Gen AI, and creating user-friendly magic.
+
+
 ### 📫 Let's Connect
 
 - [💼 LinkedIn](https://www.linkedin.com/in/md-rashid-b19496216/)  
 - [✉️ Email](mailto:rashidrehan122000@gmail.com)  
 - [💻 GitHub](https://github.com/rashidrehan12)
+
+
+
+👋 Thanks for visiting my terminal. Keep innovating ⚡
 
 
 

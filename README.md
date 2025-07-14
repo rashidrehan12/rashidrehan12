@@ -17,8 +17,6 @@
 
 🦸‍♂️ Just a dev passionate about tech, Gen AI, and creating user-friendly magic.
 
-📫 Let's Connect
-
 📫 LinkedIn: https://www.linkedin.com/in/md-rashid-b19496216/  
 ✉️ Email   : rashidrehan122000@gmail.com  
 💻 GitHub  : https://github.com/rashidrehan12

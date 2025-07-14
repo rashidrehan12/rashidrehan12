@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👨‍💻 > Hey there! I'm Md Rashid...
+
+⌨️ > Booting up developer mode... ██████████ 100%
+
+💡 > Role: Full-Stack Developer  
+🛠️ > Tech Stack: Node.js | React | Python | MongoDB | MySQL  
+🚀 > Currently building awesome stuff @ Valuebound  
+📍 > Location: Indore, India  
+🎯 > Mission: Write clean code, break things (sometimes), fix fast 😎  
+🎵 > Vibes: Code with music. Debug with chai. Repeat.
+
+🤝 > Wanna collab? Ping me on [LinkedIn](https://www.linkedin.com/in/md-rashid-b19496216/) or [Email](mailto:rashidrehan122000@gmail.com)
+
+💬 > Loading more ideas... stay tuned 👾

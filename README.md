@@ -1,28 +1,14 @@
-## 👨‍💻 > Hey there! I'm Md Rashid...
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Md+Rashid+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Explorer+%F0%9F%94%A5;Node.js+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Fastify;Building+with+LangChain+%7C+OpenAI+%F0%9F%A7%A0;Let's+Code+%2B+Learn+%2B+Create!+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-<!--
-**rashidrehan12/rashidrehan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-⌨️ > Booting up developer mode... ██████████ 100%
-
-💡 > Role: Full-Stack Developer  
-🛠️ > Tech Stack: Node.js | React | Python | MongoDB | MySQL  
-🚀 > Currently building awesome stuff @ Valuebound  
-📍 > Location: Indore, India  
-🎯 > Mission: Write clean code, break things (sometimes), fix fast 😎  
-🎵 > Vibes: Code with music. Debug with chai. Repeat.
-
-🤝 > Wanna collab? Ping me on [LinkedIn](https://www.linkedin.com/in/md-rashid-b19496216/) or [Email](mailto:rashidrehan122000@gmail.com)
-
-💬 > Loading more ideas... stay tuned 👾
+```bash
+💼 Position     : Associate Software Engineer  
+🧠 Expertise    : Full-Stack Dev | Backend APIs | Gen AI Integration  
+🧪 Speciality   : Node.js · React · Python · Fastify · MongoDB · MySQL  
+🧬 AI Magic     : LangChain · OpenAI · Streamlit · Groq APIs  
+🌍 Location     : Indore, India  
+☕ Fun Fact     : Code → Music → Chai → Repeat 🎧☕💻  
+🎯 Goal         : Build scalable apps & cool AI tools that make life easier 🚀
